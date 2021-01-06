@@ -1,0 +1,167 @@
+BUSINESS ASSOCIATE AGREEMENT 
+
+	This Business Associate Agreement (“Agreement”) by and between ____________ (“Company”) and BloomAPI, Inc. (“Service Provider”), is entered into on this _______ day of __________, 20___ (“Effective Date”), for the purposes of complying with the privacy and security regulations issued by the United States Department of Health and Human Services under the Health Insurance Portability and Accountability Act of 1996 (“HIPAA”) and the security provisions of the American Recovery and Reinvestment Act of 2009, also known as the Health Information Technology for Economic and Clinical Health Act (the “HITECH Act”). Company and Service Provider are collectively referred to as the “Parties.”
+
+WITNESSETH
+
+	WHEREAS, Company is a “Business Associate” as such term is defined under HIPAA and as such is required to comply with the requirements thereof regarding the confidentiality and privacy of Protected Health Information; and
+
+	WHEREAS, Service Provider is a “Subcontractor” as such term is defined under HIPAA and as such is required to comply with the requirements thereof regarding the confidentiality and privacy of Protected Health Information; and
+
+	WHEREAS, Service Provider has entered or may enter into an agreement with Company (“Service Agreement”) pursuant to which Company may provide Service Provider with access to Protected Health Information that Service Provider will use to render services
+
+	NOW THEREFORE, in consideration of the mutual covenants, promises and agreements contained herein, the Parties hereto agree as follows:
+
+I. 		Definitions  
+
+	For the purposes of this Agreement, the following capitalized terms shall have the meanings ascribed to them below.  Capitalized terms used but not defined herein shall have the meanings ascribed to them by HIPAA and the HITECH Act.
+
+	A. “Protected Health Information” or “PHI” is any information, whether oral or recorded in any form or medium that is created, received, maintained, or transmitted by Service Provider, for or on behalf of Company pursuant to the Service Agreement, that identifies an individual or might reasonably be used to identify an individual and relates to: (i) the individual’s past, present or future physical or mental health; (ii) the provision of health care to the individual; or (iii) the past, present or future payment for health care. 
+	
+	B. “Secretary” shall have the meaning ascribed to this term in 45 CFR Section 160.103.
+
+II. 	Confidentiality of PHI
+
+	A) Obligations of Service Provider
+		
+		i)	General Compliance with Law
+
+	Service Provider shall comply with all federal and state laws governing the confidentiality and privacy of PHI that are applicable to Service Provider, including, without limitation, HIPAA and the regulations promulgated thereunder, and the HITECH ACT and the regulations promulgated thereunder.
+		
+		ii)	Use and Disclosure of Protected Health Information 
+
+	Service Provider warrants that it, its agents and its subcontractors:  (a) shall use or disclose PHI only in connection with fulfilling its duties and obligations under this Agreement and the Service Agreement; (b) shall not use or disclose PHI other than as permitted or required by this Agreement or required by law; (c) shall not use or disclose PHI in any manner that violates applicable federal and state laws or would violate such laws if used or disclosed in such manner by Company; and (d) shall only use and disclose the minimum necessary PHI for its specific purposes. In addition, Service Provider may use PHI to create de-­identified information in a manner consistent with the standards set forth in HIPAA.
+
+	Subject to the restrictions set forth in the previous paragraph and throughout this Agreement, Service Provider may use the information received from Company if necessary for (a) the proper management and administration of Service Provider; or (b) to carry out the legal responsibilities of Service Provider.
+
+	Subject to the restrictions set forth in this Agreement, Service Provider may disclose Protected Health Information for the proper management and administration of Service Provider, provided that: (a) disclosures are required by law; or (b) Service Provider obtains reasonable assurances from the person or entity to whom the information is disclosed that it will remain confidential and used or further disclosed only as Required by Law or for the purpose for which it was disclosed to the person or entity, and the person or entity notifies the Service Provider of any instances of which it is aware in which the confidentiality of the information has been breached.
+
+	Service Provider further represents that, to the extent Service Provider requests that Company disclose PHI to Service Provider, such request is only for the minimum necessary PHI for the accomplishment of the Service Provider’s purpose.
+
+		iii) 	Availability of Books and Records 
+
+	Service Provider shall permit the Secretary and his or her delegates to audit Service Provider’s internal practices, books and records at reasonable times as they pertain to the use and disclosure of PHI in order to ensure that Company and/or Service Provider is in compliance with HIPAA. Such information shall be made available in a time and manner designated by Company or the Secretary.  
+	
+		iv)		Access of Individuals and Covered Entities to Information 
+
+	In order to allow Company or Covered Entity to respond to a request by an individual for access to PHI pursuant to HIPAA, Service Provider, within five (5) business days of a written request by Company for access to PHI about an Individual contained in a Designated Record Set, shall make available to Company such PHI for so long as such information is maintained in the Designated Record Set.  In the event any Individual requests access to PHI directly from Service Provider, Service Provider shall promptly, and within five (5) business days, forward such request to Company. 
+
+		v) 		Amendment of Information 
+
+	In the event that Company requests PHI from Service Provider to enable Company or Covered Entity to respond to a request by an Individual for an amendment to PHI pursuant to 45 CFR Section 164.526, Company shall provide such PHI promptly and within five (5) business days.  In the event any Individual requests an amendment to PHI directly from Service Provider, Service Provider shall promptly, and within five (5) business days, forward such request to Company.  Within five (5) business days of receipt of request from Company to amend an individual’s PHI in Service Provider’s control or possession, Service Provider shall incorporate any approved amendments, statements of disagreement, and/or rebuttals.
+
+		vi)		Accounting of Disclosures 
+
+	In order to allow Company or Covered Entity to respond to a request by an Individual for an accounting of disclosures pursuant to 45 CFR Section 164.528, Service Provider shall, within five (5) business days of a written request by Company for an accounting of disclosures of PHI about an individual, make available to Company such PHI.  In the event any individual requests an accounting of disclosures of PHI directly from Service Provider, Service Provider shall promptly, and within five (5) business days, forward such request to Company. At a minimum, Service Provider shall provide Company with the following information: (i) the date of the disclosure; (ii) the name of the entity or person who received the PHI and, if known, the address of such entity or person; (iii) a brief description of the PHI disclosed; and (iv) a brief statement of the purpose of such disclosure.  Service Provider shall implement an appropriate recordkeeping process to enable it to comply with the requirements of this Section.
+		
+		vii)	Covered Entity’s Obligations
+
+	To the extent that Service Provider is to carry out a covered entity’s obligation under HIPAA, Service Provider shall comply with the requirements within HIPAA that apply to such covered entity in the performance of such obligation.
+
+		vii) Survival
+
+	The provisions of this Section II(A) shall survive the termination of this Agreement. 
+
+	B) Obligations of Company
+
+	Company shall notify Service Provider of any limitation(s) in any applicable notice of privacy practices in accordance with 45 CFR Section 164.520, to the extent that such limitation may affect Service Provider’s use or disclosure of PHI and to the extent that Company has been made aware of such limitation(s).
+
+	Company shall notify Service Provider of any changes in, or revocation of, permission by individual to use or disclose PHI, to the extent that such changes may affect Service Provider’s use or disclosure of PHI, and to the extent that Company has been made aware of such changes.
+
+	Company shall notify Service Provider of any restriction to the use or disclosure of PHI that Covered Entity has agreed to in accordance with 45 CFR Section 164.522, to the extent that such restriction may affect Service Provider’s use or disclosure of PHI, and to the extent that Company has been made aware of such restriction.
+
+III.	Disclosure to Third Parties
+	
+		Service Provider shall obtain and maintain an agreement with each subcontractor or agent that has or will have access to PHI, pursuant to which agreement such subcontractor or agent agrees to be bound by the same restrictions, terms, and conditions that apply to Service Provider pursuant to the Agreement with respect to such PHI.  
+
+IV. 	Safeguards
+		
+		Service Provider shall employ appropriate administrative, technical and physical safeguards, consistent with the size and complexity of Service Provider’s operations, to protect the confidentiality of PHI and to prevent the use or disclosure of PHI in any manner inconsistent with the terms of this Agreement. Subcontractor shall comply, where applicable, with the Security Rule with respect to electronic PHI.
+
+V. 		Reporting of Breaches and Improper Disclosures
+
+		In the event of a Breach of any Unsecured PHI that Service Provider accesses, maintains, retains, modifies, records, or otherwise holds or uses on behalf of Company, Service Provider shall report such Breach to Company as soon as practicable, but in no event later than three (3) business days after the date the Breach is discovered.  Notice of a Breach shall include, to the extent such information is available: (i) the identification of each individual whose PHI has been, or is reasonably believed to have been, accessed, acquired, or disclosed during the Breach; (ii) the date of the Breach, if known, and the date of discovery of the Breach; (iii) the scope of the Breach; and (iv) the Service Provider’s response to the Breach.  
+
+		In the event of a use or disclosure of PHI that is improper under this Agreement but does not constitute a Breach, Service Provider shall report such use or disclosure to Company within five (5) business days after the date on which Service Provider becomes aware of such use or disclosure.
+
+		In the event of any successful Security Incident, Service Provider shall report such Security Incident in writing to Company within five (5) business days of the date on which Service Provider becomes aware of such Security Incident.  The parties acknowledge that unsuccessful Security Incidents (e.g., pings) occur within the normal course of business and shall not be reported pursuant to this Agreement.
+
+VI. 	Term and Termination.  
+
+		A)	General Term and Termination
+
+		This Agreement shall become effective on the Effective Date set forth above and shall terminate upon the termination or expiration of the Service Agreement and when all PHI provided by either party to the other, or created or received or transmitted or maintained by Service Provider on behalf of Company is, in accordance with Section VII below, destroyed or returned to Company or, if it is not feasible to return or destroy PHI, protections are extended to such information, in accordance with the terms of this Agreement.
+
+		B) 	Material breach
+
+		Where either Party has knowledge of a material breach by the other Party, and cure is possible, the non-breaching Party shall provide the breaching Party with written notice of such breach and ten (10) business days to cure such breach.  If the breaching party does not cure such breach, the non-breaching party may then terminate this BAA and all portion(s) of the Service Agreement affected by the breach, if feasible.  
+
+		Where either Party has knowledge of a material breach by the other Party and cure is not possible, the non-breaching Party may terminate this Agreement and portion(s) of the Service Agreement affected by the breach, if feasible.  
+   
+VII. 	Return/Destruction of PHI Upon Termination 
+
+		Upon termination of this Agreement for any reason, Service Provider shall, at Company’s election, return or destroy all PHI.  This provision shall also apply to PHI in the possession of subcontractors or agents of Service Provider.  Service Provider shall retain no copies of the PHI.
+
+		Notwithstanding the foregoing, in the event that Service Provider reasonably determines that returning or destroying the Protected Health Information is infeasible, Service Provider shall provide to Company notification of the conditions that make return or destruction infeasible. Upon mutual agreement of the Parties, not to be unreasonably withheld, that return or destruction of PHI is infeasible, Service Provider shall extend the protections of this BAA to such PHI and limit further uses and disclosures of such PHI to those purposes that make the return or destruction infeasible, for so long as Service Provider maintains such PHI.
+ 
+VIII. 	Indemnification.  
+
+		Service Provider shall indemnify, defend and hold harmless Company and its directors, officers, subcontractors, employees, affiliates, agents, and representatives from and against any and all third party liabilities, costs, claims, suits, actions, proceedings, demands, losses and liabilities of any kind (including court costs and reasonable attorneys’ fees) incurred by and/or brought by a third party, arising from or relating to the acts and/or omissions of Service Provider and/or any of its directors, officers, subcontractors, employees, affiliates, agents, and representatives in connection with Service Provider’s performance under this Agreement or Service Agreement, without regard to any limitation or exclusion of damages provision otherwise set forth in the Agreement. The indemnification provisions of this Section VIII shall survive the termination of this Agreement.
+
+IX. 	Regulatory References.
+	
+		A reference in this BAA to a section in HIPAA means the section as in effect or as amended from time to time, and for which compliance is required.
+
+X.		 Amendment.  
+
+		If any of the regulations promulgated under HIPAA or the HITECH Act are amended or interpreted in a manner that renders this Agreement inconsistent therewith, the Parties shall promptly amend this Agreement to the extent necessary to comply with such amendments or interpretations. 
+
+XI. 	Conflicting Terms.  
+
+		In the event any terms of this Agreement conflict with any terms of the Service Agreement, the terms of this Agreement shall govern and control.
+
+XII.	Interpretation.  
+	
+		Any ambiguity in this BAA shall be resolved in favor of a meaning that permits the parties to comply with applicable law, including HIPAA.
+
+XII. 	Notices.
+
+		All notices, requests, approvals, demands and other communications required or permitted to be given under this Agreement shall be in writing and delivered either personally, or by certified mail with postage prepaid and return receipt requested, or by overnight courier to the party to be notified.  All communications will be deemed given when received.  The addresses of the parties shall be as follows; or as otherwise designated by any party through notice to the other party:
+
+If to Company:
+
+_______________________
+_______________________
+_______________________
+Attn:  __________________
+
+
+If to Service Provider:
+
+BloomAPI, Inc.
+300 Lenora Street #963
+Seattle, WA 98121
+Attn: Compliance Officer
+
+
+IN WITNESS WHEREOF, each of the undersigned has duly executed this Agreement on behalf of the party and on the date set forth below.
+
+COMPANY:  _____________________
+
+By: _____________________________
+ 
+Print: ___________________________
+
+Title: ___________________________
+
+Date: ___________________________
+
+SERVICE PROVIDER: BloomAPI, Inc.
+
+By:_______________________________
+ 
+Print: _____________________________
+
+Title: _____________________________
+
+Date: _____________________________
