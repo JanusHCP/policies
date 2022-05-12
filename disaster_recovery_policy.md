@@ -76,7 +76,7 @@ This phase addresses the initial actions taken to detect and assess damage infli
 The notification sequence is listed below:
 
 * The first responder is to notify the CTO. All known information must be relayed to the CTO.
-* The CEO is to contact the Web Services Team and inform them of the event. The CTO is to to begin assessment procedures.
+* The CEO is to contact the Web Services Team and inform them of the event. The CTO is to begin assessment procedures.
 * The CTO is to notify team members and direct them to complete the assessment procedures outlined below to determine the extent of damage and estimated recovery time. If damage assessment cannot be performed locally because of unsafe conditions, the CTO is to following the steps below.
 	* Damage Assessment Procedures:
 	* The CTO and CEO are to logically assess damage, gain insight into whether the infrastructure is salvageable, and begin to formulate a plan for recovery.
@@ -100,24 +100,24 @@ The following procedures are for recovering the BloomAPI infrastructure at the a
 
 Recovery Goal: The goal is to rebuild BloomAPI infrastructure to a production state.
 
-The tasks outlines below are not sequential and some can be run in parallel.
+The tasks outlined below are not sequential and some can be run in parallel.
 
 1. Contact Partners and Customers affected - Web Services
 2. Assess damage to the environment - Web Services
-3. Begin replication of new environment using automated and tested scrips, currently Salt. A this point it is determined whether to recover in AWS or in Colocation America. - Dev Ops
+3. Begin replication of new environment using automated and tested scripts. At this point it is determined whether to recover in AWS or in Colocation America - Dev Ops
 4. Test new environment using pre-written tests - Web Services
 5. Test logging, security, and alerting functionality - Dev Ops
-6. Assure systems are appropriately patched and up to date. - Dev Ops
+6. Assure systems are appropriately patched and up to date - Dev Ops
 7. Deploy environment to production - Web Services
-8. Update DNS to new environment. - Dev Ops
+8. Update DNS to new environment - Dev Ops
 
 ## 3. Reconstitution Phase
 
 This section discusses activities necessary for restoring BloomAPI operations at the original or new site. The goal is to restore full operations within 24 hours of a disaster or outage. When the hosted data center at the original or new site has been restored, BloomAPI operations at the alternate site may be transitioned back. The goal is to provide a seamless transition of operations from the alternate site to the computer center.
 
 1. Original or New Site Restoration
-	* Begin replication of new environment using automated and tested scrips, currently Salt. - Dev Ops
-	* Test new environment using pre-written tests. - Web Services
+	* Begin replication of new environment using automated and tested scripts. - Dev Ops
+	* Test new environment using pre-written testing scripts. - Web Services
 	* Test logging, security, and alerting functionality. - Dev Ops
 	* Deploy environment to production - Web Services
 	* Assure systems are appropriately patched and up to date. - Dev Ops

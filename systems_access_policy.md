@@ -36,14 +36,12 @@ Access to BloomAPI systems and application is limited for all users, including b
 * The request for access is retained for future reference.
 * All access to BloomAPI systems and services are reviewed and updated on an annual basis to assure proper authorizations are in place commiserate with job functions.
 * Any BloomAPI workforce member can request change of access by emailing the Security Officer.
-* Access to systems is controlled using centralized user management and authentication. All authentication requests utilize two factor authentication using mobile devices as the second factor.
+* Access to systems is controlled using centralized user management and authentication. All authentication requests utilize two-factor authentication where supported.
 * Temporary accounts are not used unless absolutely necessary for business purposes.
 * In the case of non-personal information, such as generic educational content, identification and authentication may not be required.
 * Privileged users must first access systems using standard, unique user accounts before switching to privileged users and performing privileged tasks.
 * All application to application communication using service accounts is restricted and not permitted unless absolutely needed. Automated tools are used to limit account access across applications and systems.
 * Generic accounts are not allowed on BloomAPI systems.
-* Access is granted through encrypted, VPN tunnels.
-	* VPN utilizes AES 256 bit encryption.
 * In cases of increased risk or known attempted unauthorized access, immediate steps are taken by the Security and Privacy Officer to limit access and reduce risk of unauthorized access.
 * Direct system to system, system to application, and application to application authentication and authorization are limited and controlled to restrict access.
 
@@ -76,8 +74,6 @@ Access to BloomAPI systems and application is limited for all users, including b
 * Information systems automatically log users off the systems after several minutes of inactivity.
 
 ## Employee Workstation Use
-
-All workstations at BloomAPI are company owned, and all laptops are Apple products running Mac operating system.
 
 * Workstations may not be used to engage in any activity that is illegal or is in violation of organization's policies.
 * Access may not be used for transmitting, retrieving, or storage of any communications of a discriminatory or harassing nature or materials that are obscene or "X-rated". Harassment of any kind is prohibited. No messages with derogatory or inflammatory remarks about an individual's race, age, disability, religion, national origin, physical attributes, sexual preference, or health condition shall be transmitted or maintained. No abusive, hostile, profane, or offensive language is to be transmitted through organization's system.
