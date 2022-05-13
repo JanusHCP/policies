@@ -33,7 +33,7 @@ Production Systems that create, receive, store, or transmit customer data (herea
 
 ### Intrusion Detection and Vulnerability Scanning
 
-* Production Systems are monitors using IDS systems. Suspicious activity is logged and alerts are generated.
+* Production Systems are monitored using IDS systems. Suspicious activity is logged and alerts are generated.
 * Vulnerability scanning of Production Systems must occur on a predetermined, regular basis. Results are reviewed by Security Officer, with defined steps for risk mitigation, and retained for future reference.
 
 ### Production System Security
@@ -47,7 +47,7 @@ Production Systems that create, receive, store, or transmit customer data (herea
 * Reduce the risk of compromise of Production Data.
 * Implement and/or review controls designed to protect Production Data from improper alteration or destruction.
 * Ensure that Confidential data is stored in a manner that supports user access logs and automated monitoring for potential security incidents.
-* Ensure BloomAPI customer Production Data is segmented and only accessible to customer authorized to access data.
+* Ensure BloomAPI customer Production Data is segmented and only accessible to customers authorized to access data.
 * All Production Data at rest is stored on encrypted volumes.
 
 ### Transmission Security

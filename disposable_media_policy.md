@@ -1,6 +1,6 @@
 # Disposable Media Policy
 
-BloomAPI utilizes dedicated hardware from Subcontractors. ePHI is only stored on SSD volumes in our hosted environment. All SSD volumes utilized by BloomAPI and BloomAPI Customers are encrypted. BloomAPI does not use, own, or manage any mobile devices, SD cards, or tapes that have access to ePHI.
+BloomAPI utilizes dedicated hardware from Subcontractors. ePHI is only stored on SSD volumes in our hosted environment. All SSD volumes utilized by BloomAPI and BloomAPI Customers are encrypted. BloomAPI does not use, own, or manage any mobile devices, SD cards, or tapes that store ePHI.
 
 ## Applicable Standards from the HITRUST Common Security Framework
 

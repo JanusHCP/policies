@@ -20,4 +20,4 @@ Within the BloomAPI Platform all data transmission is encrypted and all hard dri
 
 ## Version Control
 
-Policies were last updated December 28th, 2018.
+Policies were last reviewed and updated May 11th, 2022.
