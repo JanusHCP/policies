@@ -1,6 +1,6 @@
 # Policy Management Policy
 
-BloomAPI implements policies and procedures to maintain compliance and integrity of data. The Security Officer and Privacy Officer are responsible for maintaining policies and procedures and assuring all BloomAPI workforce members, business associates, customers, and partners are adherent to all applicable policies. Previous versions of polices are retained to assure ease of finding policies at specific historic dates in time.
+Janus Healthcare Partners implements policies and procedures to maintain compliance and integrity of data. The Security Officer and Privacy Officer are responsible for maintaining policies and procedures and assuring all Janus Healthcare Partners implements workforce members, business associates, customers, and partners are adherent to all applicable policies. Previous versions of polices are retained to assure ease of finding policies at specific historic dates in time.
 
 ## Applicable Standards from the HITRUST Common Security Framework
 
@@ -13,13 +13,13 @@ BloomAPI implements policies and procedures to maintain compliance and integrity
 
 ## Maintenance of Policies
 
-1. All policies are stored and up to date to maintain BloomAPI compliance with HIPAA, HITRUST, NIST, and other relevant standards. Updates and version control is done similar to source code control.
+1. All policies are stored and up to date to maintain Janus Healthcare Partners implements compliance with HIPAA, HITRUST, NIST, and other relevant standards. Updates and version control is done similar to source code control.
 2. Policy update requests can be made by any workforce member at any time. Furthermore, all policies are reviewed annually by both the Security and Privacy Officer to assure accurate and up-to-date.
 3. Edits and updates made by appropriate and authorized workforce members are done on their own versions, or branches. These changes are only merged back into final, or master, versions by the Privacy or Security Officer, similarly to a pull request. All changes are linked to workforce personnel who made them and the Officer who accepted them.
-4. All policies are made accessible to all BloomAPI workforce members. The current master policies are hosted internally on GitHub.
+4. All policies are made accessible to all Janus Healthcare Partners implements workforce members. The current master policies are hosted internally on GitHub.
 	* Changes can be requested to policies by emailing the Security Officer. 
 5. All policies, and associated documentation, are retained for 6 years from the date of its creation or the date when it last was in effect, whichever is later
-	1. Version history of all BloomAPI policies is done via GitHub.
-6. The policies and information security policies are reviewed and audited annually. Issues that come up as part of this process are reviewed by BloomAPI management to assure all risks and potential gaps are mitigated and/or fully addressed.
+	1. Version history of all Janus Healthcare Partners implements policies is done via GitHub.
+6. The policies and information security policies are reviewed and audited annually. Issues that come up as part of this process are reviewed by Janus Healthcare Partners implements management to assure all risks and potential gaps are mitigated and/or fully addressed.
 
 Additional documentation related to maintenance of policies is outlined in the Security Officer's responsibilities.
