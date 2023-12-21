@@ -1,8 +1,8 @@
 # Data Management Policy
 
-BloomAPI has procedures to create and maintain retrievable exact copies of stored electronic protected health information (ePHI). The policy and procedures will assure that complete, accurate, retrievable, and tested backups are available for all systems used by BloomAPI.
+Janus Healthcare Partners has procedures to create and maintain retrievable exact copies of stored electronic protected health information (ePHI). The policy and procedures will assure that complete, accurate, retrievable, and tested backups are available for all systems used by Janus Healthcare Partners.
 
-Data backup is an important part of the day-to-day operations of BloomAPI. To protect the confidentiality, integrity, and availability of ePHI, both for BloomAPI and BloomAPI Customers, completes backups are done daily to assure that data remains available when it needed and in case of disaster.
+Data backup is an important part of the day-to-day operations of Janus Healthcare Partners. To protect the confidentiality, integrity, and availability of ePHI, both for Janus Healthcare Partners and Janus Healthcare Partners Customers, completes backups are done daily to assure that data remains available when it needed and in case of disaster.
 
 Violation of this policy and its procedures by workforce members may result in corrective disciplinary action, up to and including termination of employment.
 
@@ -18,8 +18,8 @@ Violation of this policy and its procedures by workforce members may result in c
 
 ## Backup Policy and Procedures
 
-1. Perform daily snapshot backups of all systems that process, store, or transmit ePHI for BloomAPI Customers.
-2. BloomAPI Ops Team, lead by the CTO, is designated to be in charge of backups.
+1. Perform daily snapshot backups of all systems that process, store, or transmit ePHI for Janus Healthcare Partners Customers.
+2. Janus Healthcare Partners Ops Team, lead by the CTO, is designated to be in charge of backups.
 3. Ops Team members are trained and assigned to complete backups and manage the backup media.
 4. Document backups 
 	* Name of the system
