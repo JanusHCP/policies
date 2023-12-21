@@ -1,6 +1,6 @@
 # Disposable Media Policy
 
-Janus Healthcare Partners utilizes dedicated hardware from Subcontractors. ePHI is only stored on SSD volumes in our hosted environment on AWS. All SSD volumes utilized by Janus Healthcare Partners and Janus Healthcare Partners Customers are encrypted. Janus Healthcare Partners does not use, own, or manage any mobile devices, SD cards, or tapes that store ePHI with the exception of laptop computers
+Janus Healthcare Partners utilizes dedicated hardware from Subcontractors. ePHI is only stored on SSD volumes in our hosted environment on AWS. All SSD volumes utilized by Janus Healthcare Partners and Janus Healthcare Partners Customers are encrypted. Janus Healthcare Partners does not use, own, or manage any mobile devices (excluding laptop computers), SD cards, or tapes that store ePHI.
 
 ## Applicable Standards from the HITRUST Common Security Framework
 
