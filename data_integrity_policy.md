@@ -1,6 +1,6 @@
 # Data Integrity Policy
 
-BloomAPI takes data integrity very seriously. As stewards and partners of BloomAPI Customers, we strive to assure data is protected from unauthorized access and that it is available when needed. The following policies drive many of our procedures and technical settings in support of the BloomAPI mission of data protection.
+Janus Healthcare Partners takes data integrity very seriously. As stewards and partners of Janus Healthcare Partners Customers, we strive to assure data is protected from unauthorized access and that it is available when needed. The following policies drive many of our procedures and technical settings in support of the Janus Healthcare Partners mission of data protection.
 
 ## Applicable Standards from the HITRUST Common Security Framework
 
@@ -20,16 +20,16 @@ Production Systems that create, receive, store, or transmit customer data (herea
 
 ### Monitoring Log-in Attempts
 
-* All access to Production Systems must be logged. This is done following the BloomAPI Auditing Policy.
+* All access to Production Systems must be logged. This is done following the Janus Healthcare Partners Auditing Policy.
 
 ### Prevention of malware on Production Systems
 
-* All Production Systems are to only be used for BloomAPI business needs.
+* All Production Systems are to only be used for Janus Healthcare Partners business needs.
 
 ### Patch Management
 
 * Patches, application, and system OS versions are kept up to date at all times. New versions are tested.
-* Administrators subscribe to mailing lists to assure up to date on current version of all BloomAPI managed software on Production Systems.
+* Administrators subscribe to mailing lists to assure up to date on current version of all Janus Healthcare Partners managed software on Production Systems.
 
 ### Intrusion Detection and Vulnerability Scanning
 
@@ -47,7 +47,7 @@ Production Systems that create, receive, store, or transmit customer data (herea
 * Reduce the risk of compromise of Production Data.
 * Implement and/or review controls designed to protect Production Data from improper alteration or destruction.
 * Ensure that Confidential data is stored in a manner that supports user access logs and automated monitoring for potential security incidents.
-* Ensure BloomAPI customer Production Data is segmented and only accessible to customers authorized to access data.
+* Ensure Janus Healthcare Partners customer Production Data is segmented and only accessible to customers authorized to access data.
 * All Production Data at rest is stored on encrypted volumes.
 
 ### Transmission Security
@@ -55,5 +55,4 @@ Production Systems that create, receive, store, or transmit customer data (herea
 * All data transmission is encrypted end to end. Encryption is not terminated at the network end point, and is carried through to the application.
 * Encryption keys and machines that generate keys are protected from unauthorized access.
 * Encryption keys are limited to use for one year and then must be regenerated.
-* In the case of BloomAPI provided APIs, provide mechanisms to assure person sending or receiving data is authorized to send and save data.
 * System logs of all transmissions of Production Data access. These logs must be available for audit.
