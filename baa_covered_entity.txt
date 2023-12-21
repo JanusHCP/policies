@@ -1,6 +1,6 @@
 BUSINESS ASSOCIATE AGREEMENT
 
-This Business Associate Agreement (this “Agreement”) by and between _______________ (“Covered Entity”) and BloomAPI, Inc. (“Business Associate”), is entered into on ____________, 201_ (“Effective Date”), for the purposes of complying with the Health Insurance Portability and Accountability Act of 1996 and regulations promulgated thereunder (“HIPAA”) and the security provisions of the American Recovery and Reinvestment Act of 2009, also known as the Health Information Technology for Economic and Clinical Health Act (the “HITECH Act”). 
+This Business Associate Agreement (this “Agreement”) by and between _______________ (“Covered Entity”) and Janus Healthcare Partners (“Business Associate”), is entered into on ____________, 202_ (“Effective Date”), for the purposes of complying with the Health Insurance Portability and Accountability Act of 1996 and regulations promulgated thereunder (“HIPAA”) and the security provisions of the American Recovery and Reinvestment Act of 2009, also known as the Health Information Technology for Economic and Clinical Health Act (the “HITECH Act”). 
 
 WITNESSETH
 
@@ -125,7 +125,7 @@ Attn:   _____________
 
 If to Business Associate:
 
-BloomAPI, Inc.
+Janus Healthcare Partners
 300 Lenora Street #963
 Seattle, WA 98121
 Attn: Compliance Officer
@@ -151,7 +151,7 @@ Date: ___________________________
 
 
 BUSINESS ASSOCIATE: 
-BloomAPI, Inc.
+Janus Healthcare Partners
 
 By: _____________________________
  
