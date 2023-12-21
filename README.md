@@ -1,13 +1,11 @@
 # HIPAA Compliance Policies
 
-Our policies have been written with modern, cloud-based technology vendors in mind. We looked far and wide for policy 
-examples that fit our company, and couldn't find any. So we wrote our own. Importantly, these policies have been through 
-three external audits--two HIPAA audits, and one HITRUST audit.
+Our policies have been written with modern, cloud-based technology vendors in mind.
 
 ## Policy Index
 
 * [Introduction](introduction.md)
-* [HIPAA Inheritance for BloomText Customers](hipaa_inheritance.md)
+* [HIPAA Inheritance for Janus Customers](hipaa_inheritance.md)
 * [Policy Management Policy](policy_management_policy.md)
 * [Risk Management Policy](risk_management_policy.md)
 * [Roles Policy](roles_policy.md)
@@ -28,8 +26,8 @@ three external audits--two HIPAA audits, and one HITRUST audit.
 * [Approved Tools Policy](approved_tools_policy.md)
 * [3rd Party Policy](3rd_party_policy.md)
 * [Key Definitions](key_definitions.md)
-* [BloomAPI HIPAA Business Associate Agreement ("BAA")](bloomapi_hipaa_business_associate_agreement.md)
-* [HIPAA Mappings to BloomAPI Controls](hipaa_mapping_to_bloomapi_controls.md)
+* [Janus Health Care Partners HIPAA Business Associate Agreement ("BAA")](janus_hipaa_business_associate_agreement.md)
+* [HIPAA Mappings to Janus Healthcare Partners Controls](hipaa_mapping_to_janus_controls.md)
 
 ## Templates
 
