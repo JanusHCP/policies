@@ -12,4 +12,4 @@ Janus Healthcare Partners utilizes dedicated hardware from Subcontractors. ePHI 
 
 ## Disposable Media Policy
 
-1. The use of any removable media to store information is both prohibited & disabled.
+1. The use of any removable media to store information is both prohibited & disabled.  All employee devices will have external & disposable media ports disabled.
