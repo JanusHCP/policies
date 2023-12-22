@@ -136,9 +136,15 @@ All workforce members report non-compliance of Janus Healthcare Partners' polici
 ## Current Assignment of Roles
 
 **Chief Compliance Officer** - Ross Ronan, ComplianceConcerns@janushcp.com
+
 **Chief Technical Officer** - Michael Wasser, michaelw@janushcp.com
+
 **Security Team Officer** - Michael Wasser, michaelw@janushcp.com
+
 **Privacy Officer** - Michael Wasser, michaelw@janushcp.com
+
 **Web Services Team Lead** - Michael Wasser, michaelw@janushcp.com
+
 **Ops Team Lead** - Michael Wasser, michaelw@janushcp.com
+
 **Security Incidence Responce Team Lead** - Michael Wasser, michaelw@janushcp.com
