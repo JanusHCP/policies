@@ -1,6 +1,6 @@
 # Roles Policy
 
-BloomAPI has a Security Officer [164.308(a)(2)] and Privacy Officer [164.308(a)(2)] appointed to assist in maintaining and enforcing safeguards towards compliance. The responsibilities associated with these roles are outlined below.
+Janus Healthcare Partners has a Security Officer [164.308(a)(2)] and Privacy Officer [164.308(a)(2)] appointed to assist in maintaining and enforcing safeguards towards compliance. The responsibilities associated with these roles are outlined below.
 
 ## Applicable Standards from the HITRUST Common Security Framework
 
@@ -21,32 +21,30 @@ The Privacy Officer is responsible for assisting with compliance and security tr
 3. Manage relationships with customers and partners as those relationships affect security and compliance of ePHI.
 4. Assist Security Officer as needed.
 
-The current BloomAPI Privacy Officer is Eric Jain ([ejain@bloomapi.com](mailto:ejain@bloomapi.com)).
-
 ## Workforce Training Responsibilities
 
 1. The Privacy Officer facilitates the training of all workforce members as follows:
 	1. New workforce members within their first month of employment;
 	2. Existing workforce members annually;
 	3. Existing workforce members whose functions are affected by a material change in the policies and procedures, within a month after the material change becomes effective;
-	4. Existing workforce members as needed due to changes in security and risk posture of BloomAPI.
+	4. Existing workforce members as needed due to changes in security and risk posture of Janus Healthcare Partners.
 
 2. The Security Officer or designee maintains documentation of the training session materials and attendees for a minimum of six years. 
 
-3. The training session focuses on, but is not limited to, the following subjects defined in BloomAPI's security policies and procedures:
+3. The training session focuses on, but is not limited to, the following subjects defined in Janus Healthcare Partners' security policies and procedures:
 	1. HIPAA Privacy, Security, and Breach notification rules;
 	2. HITRUST Common Security Framework;
 	3. NIST Security Rules;
 	4. Risk Management procedures and documentation;
-	5. Auditing.  BloomAPI may monitor access and activities of all users;
+	5. Auditing.  Janus Healthcare Partners may monitor access and activities of all users;
 	6. Workstations may only be used to perform assigned job responsibilities;
-	7. Users may not download software onto BloomAPI's workstations and/or systems without prior approval from the Security Officer;
+	7. Users may not download software onto Janus Healthcare Partners' workstations and/or systems without prior approval from the Security Officer;
 	8. Users are required to report malicious software to the Security Officer immediately;
-	9. Users are required to report unauthorized attempts, uses of, and theft of BloomAPI's systems and/or workstations;
+	9. Users are required to report unauthorized attempts, uses of, and theft of Janus Healthcare Partners' systems and/or workstations;
 	10. Users are required to report unauthorized access to facilities
 	11. Users are required to report noted log-in discrepancies (i.e. application states users last log-in was on a date user was on vacation;
-	12. Users may not alter ePHI maintained in a database, unless authorized to do so by a BloomAPI Customer;
-	13. Users are required to understand their role in BloomAPI's contingency plan;
+	12. Users may not alter ePHI maintained in a database, unless authorized to do so by a Janus Healthcare Partners Customer;
+	13. Users are required to understand their role in Janus Healthcare Partners' contingency plan;
 	14. Users may not share their user names nor passwords with anyone;
 	15. Requirements for users to create and change passwords;
 	16. Users must set all applications that contain or transmit ePHI to automatically log off after "X" minutes of inactivity;
@@ -60,13 +58,11 @@ The current BloomAPI Privacy Officer is Eric Jain ([ejain@bloomapi.com](mailto:e
 
 ## Security Officer
 
-The Security Officer is responsible for facilitating the training and supervision of all workforce members [164.308(a)(3)(ii)(A) and 164.308(a)(5)(ii)(A)], investigation and sanctioning of any workforce member that is in violation of BloomAPI security policies and non-compliance with the security regulations [164.308(a)(1)(ii)(c)], and writing, implementing, and maintaining all polices, procedures, and documentation related to efforts toward security and compliance [164.316(a-b)].
-
-The current BloomAPI Security Officer is Eric Jain ([ejain@bloomapi.com](mailto:ejain@bloomapi.com)).
+The Security Officer is responsible for facilitating the training and supervision of all workforce members [164.308(a)(3)(ii)(A) and 164.308(a)(5)(ii)(A)], investigation and sanctioning of any workforce member that is in violation of Janus Healthcare Partners security policies and non-compliance with the security regulations [164.308(a)(1)(ii)(c)], and writing, implementing, and maintaining all polices, procedures, and documentation related to efforts toward security and compliance [164.316(a-b)].
 
 ## Organizational Responsibilities
 
-The Security Officer, in collaboration with the Privacy Officer, is responsible for facilitating the development, implementation, and oversight of all activities pertaining to BloomAPI's efforts to be compliant with the HIPAA Security Regulations, HITRUST CSF, and any other security and compliance frameworks.  The intent of the Security Officer Responsibilities is to maintain the confidentiality, integrity, and availability of ePHI.  These organizational responsibilities include, but are not limited to the following:
+The Security Officer, in collaboration with the Privacy Officer, is responsible for facilitating the development, implementation, and oversight of all activities pertaining to Janus Healthcare Partners' efforts to be compliant with the HIPAA Security Regulations, HITRUST CSF, and any other security and compliance frameworks.  The intent of the Security Officer Responsibilities is to maintain the confidentiality, integrity, and availability of ePHI.  These organizational responsibilities include, but are not limited to the following:
 
 1. Oversees and enforces all activities necessary to maintain compliance and verifies the activities are in alignment with the requirements.
 
@@ -80,7 +76,7 @@ The Security Officer, in collaboration with the Privacy Officer, is responsible 
 
 6. Provides copies of the policies and procedures to management, customers, and partners, and has them available to review by all other workforce members to which they apply.
 
-7. Annually, and as necessary, reviews and updates documentation to respond to environmental or operational changes affecting the security and risk posture of ePHI stored, transmitted, or processed within BloomAPI infrastructure.
+7. Annually, and as necessary, reviews and updates documentation to respond to environmental or operational changes affecting the security and risk posture of ePHI stored, transmitted, or processed within Janus Healthcare Partners infrastructure.
 
 9. Develops and provides periodic security updates and reminder communications for all workforce members.
 
@@ -88,14 +84,14 @@ The Security Officer, in collaboration with the Privacy Officer, is responsible 
 
 11. Maintains a program promoting workforce members to report non-compliance with policies and procedures.
 	1. Promptly, properly, and consistently investigates and addresses reported violations and takes steps to prevent recurrence.
-	2. Applies consistent and appropriate sanctions against workforce members who fail to comply with the security policies and procedures of BloomAPI.
-	3. Mitigates, to the extent practicable, any harmful effect known to BloomAPI of a use or disclosure of ePHI in violation of BloomAPI's policies and procedures, even if effect is the result of actions of BloomAPI business associates, customers, and/or partners. 
+	2. Applies consistent and appropriate sanctions against workforce members who fail to comply with the security policies and procedures of Janus Healthcare Partners.
+	3. Mitigates, to the extent practicable, any harmful effect known to Janus Healthcare Partners of a use or disclosure of ePHI in violation of Janus Healthcare Partners' policies and procedures, even if effect is the result of actions of Janus Healthcare Partners business associates, customers, and/or partners. 
 
 12. Reports security efforts and incidents to administration immediately upon discovery. Responsibilities in the case of a known ePHI breach are documented in the [Breach Policy](breach_policy.md).
 
 13. The Security Officer facilitates the communication of security updates and reminders to all workforce members to which it pertains.  Examples of security updates and reminders include, but are not limited to:
 	1. Latest malicious software or virus alerts;
-	2. BloomAPI's requirement to report unauthorized attempts to access ePHI;
+	2. Janus Healthcare Partners' requirement to report unauthorized attempts to access ePHI;
 	3. Changes in creating or changing passwords;
 	4. Additional security-focused training is provided to all workforce members by the Security Officer.  This training includes, but is not limited to:
 	5. Data backup plans;
@@ -109,30 +105,30 @@ The Security Officer, in collaboration with the Privacy Officer, is responsible 
 
 ## Supervision of Workforce Responsibilities
 
-Although the Security Officer is responsible for implementing and overseeing all activities related to maintaining compliance, it is the responsibility of all workforce members (i.e. team leaders, supervisors, managers, directors, co-workers, etc.) to supervise all workforce members and any other user of BloomAPI's systems, applications, servers, workstations, etc. that contain ePHI.
+Although the Security Officer is responsible for implementing and overseeing all activities related to maintaining compliance, it is the responsibility of all workforce members (i.e. team leaders, supervisors, managers, directors, co-workers, etc.) to supervise all workforce members and any other user of Janus Healthcare Partners' systems, applications, servers, workstations, etc. that contain ePHI.
 
 1. Monitor workstations and applications for unauthorized use, tampering, and theft and report non-compliance according to the Security Incident Response policy.
 
 2. Assist the Security and Privacy Officers to ensure appropriate role-based access is provided to all users.
 
-3. Take all reasonable steps to hire, retain, and promote workforce members and provide access to users who comply with the Security regulation and BloomAPI's security policies and procedures.
+3. Take all reasonable steps to hire, retain, and promote workforce members and provide access to users who comply with the Security regulation and Janus Healthcare Partners' security policies and procedures.
 
 ## Sanctions of Workforce Responsibilities
 
-All workforce members report non-compliance of BloomAPI's policies and procedures to the Security Officer or other individual as assigned by the Security Officer.  Individuals that report violations in good faith may not be subjected to intimidation, threats, coercion, discrimination against, or any other retaliatory action as a consequence.
+All workforce members report non-compliance of Janus Healthcare Partners' policies and procedures to the Security Officer or other individual as assigned by the Security Officer.  Individuals that report violations in good faith may not be subjected to intimidation, threats, coercion, discrimination against, or any other retaliatory action as a consequence.
 
-1. The Security Officer promptly facilitates a thorough investigation of all reported violations of BloomAPI's security policies and procedures.  The Security Officer may request the assistance from others.
+1. The Security Officer promptly facilitates a thorough investigation of all reported violations of Janus Healthcare Partners' security policies and procedures.  The Security Officer may request the assistance from others.
 	1. Complete an audit trail/log to identify and verify the violation and sequence of events.
 	2. Interview any individual that may be aware of or involved in the incident.
 	3. All individuals are required to cooperate with the investigation process and provide factual information to those conducting the investigation.
-	4. Provide individuals suspected of non-compliance of the Security rule and/or BloomAPI's policies and procedures the opportunity to explain their actions.
+	4. Provide individuals suspected of non-compliance of the Security rule and/or Janus Healthcare Partners' policies and procedures the opportunity to explain their actions.
 	5. The investigators thoroughly documents the investigation as the investigation occurs.
 
 2. Violation of any security policy or procedure by workforce members may result in corrective disciplinary action, up to and including termination of employment.  Violation of this policy and procedures by others, including business associates, customers, and partners may result in termination of the relationship and/or associated privileges.  Violation may also result in civil and criminal penalties as determined by federal and state laws and regulations. 
-	1. A violation resulting in a breach of confidentiality (i.e. release of PHI to an unauthorized individual), change of the integrity of any ePHI, or inability to access any ePHI by other users, requires immediate termination of the workforce member from BloomAPI.
+	1. A violation resulting in a breach of confidentiality (i.e. release of PHI to an unauthorized individual), change of the integrity of any ePHI, or inability to access any ePHI by other users, requires immediate termination of the workforce member from Janus Healthcare Partners.
 
 3. The Security Officer facilitates taking appropriate steps to prevent recurrence of the violation (when possible and feasible).
 
-4. In the case of an insider threat, the Security Officer and Privacy Officer are to setup a team to investigate and mitigate the risk of insider malicious activity. BloomAPI workforce members are encouraged to come forward with information about insider threats, and can do so anonymously. 
+4. In the case of an insider threat, the Security Officer and Privacy Officer are to setup a team to investigate and mitigate the risk of insider malicious activity. Janus Healthcare Partners workforce members are encouraged to come forward with information about insider threats, and can do so anonymously. 
 
 5. The Security Officer maintains all documentation of the investigation, sanctions provided, and actions taken to prevent reoccurrence for a minimum of six years after the conclusion of the investigation. 
