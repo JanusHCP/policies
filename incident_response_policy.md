@@ -26,7 +26,7 @@ The incident response process addresses:
 
 ## Incident Management Policies
 
-The Janus Healthcare Partners incident response process follows the process recommended by SANS, an industry leader in security (www.sans.org). Process flows are a direct representation of the SANS process. Review Appendix 1 for a flowchart identifying each phase.
+The Janus Healthcare Partners incident response process follows the process recommended by SANS, an industry leader in security (www.sans.org). Process flows are a direct representation of the SANS process.
 
 ### Identification Phase
 
@@ -39,7 +39,7 @@ The Janus Healthcare Partners incident response process follows the process reco
 	6. The individual receiving the report facilitates completion of an Incident Identification form.
 	7. The Security Officer determines if the issue is a Precursor, Incident, Event, or Incident.
 	8. If the issue is an event, indication, or precursor the Security Officer forwards it to the appropriate resource for resolution.
-		1. Non-Technical Event (minor infringement): the Security Officer completes a SIR Form (see Appendix 2) and investigates the incident.
+		1. Non-Technical Event (minor infringement): the Security Officer completes a SIR Form (see SIR Template) and investigates the incident.
 		2. Technical Event: Assign the issue to an IT resource for resolution. This resource may also be a contractor or outsourced technical resource, in the event of a small office or lack of expertise in the area.
 	10. If the issue is a security incident the Security Officer activates the Security Incident Response Team (SIRT) and notifies senior management.
 		1. If a non-technical security incident is discovered the SIRT completes the investigation, implements preventative measures, and resolves the security incident.
@@ -47,7 +47,7 @@ The Janus Healthcare Partners incident response process follows the process reco
 		3. If the issue is a technical security incident, commence to Phase II: Containment.
 		4. The Containment, Eradication, and Recovery Phases are highly technical. It is important to have them completed by a highly qualified technical security resource with oversight by the SIRT team.
 		5. Each individual on the SIRT and the technical security resource document all measures taken during each phase, including the start and end times of all efforts.
-		6. The lead member of the SIRT team facilitates initiation of a Security Incident Report (SIR) Form (See Appendix 2 for sample format) or an Incident Survey Form (See Appendix 4).  The intent of the SIR form is to provide a summary of all events, efforts, and conclusions of each Phase of this policy and procedures.
+		6. The lead member of the SIRT team facilitates initiation of a Security Incident Report (SIR) Form (See SIR Template).  The intent of the SIR form is to provide a summary of all events, efforts, and conclusions of each Phase of this policy and procedures.
 	11. The Security Officer, Privacy Officer, or Janus Healthcare Partners representative appointed notifies any affected Customers and Partners. If no Customers and Partners are affected, notification is at the discretion of the Security and Privacy Officer.
 	12. In the case of a threat identified, the Security Officer is to form a team to investigate and involve necessary resources, both internal to Janus Healthcare Partners and potentially external.
 
@@ -83,7 +83,7 @@ The Eradication Phase represents the SIRT's effort to remove the cause, and the 
 	3. Remediation ("fixing") any security issues within the affected system, such as removing unused services/general host hardening techniques.
 3. Conduct a detailed vulnerability assessment to verify all the holes/gaps that can be exploited have been addressed.
 	1. If additional issues or symptoms are identified, take appropriate preventative measures to eliminate or minimize potential future compromises.
-4. Complete the Eradication Form (see Appendix 4).
+4. Complete the Eradication Form (see Eradication Form template.
 5. Update the documentation with the information learned from the vulnerability assessment, including the cause, symptoms, and the method used to fix the problem with the affected system(s).
 6. Apprise Senior Management of the progress.
 7. Continue to notify affected Customers and Partners with relevant updates as needed.
