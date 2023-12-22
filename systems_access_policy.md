@@ -86,7 +86,7 @@ Access to Janus Healthcare Partners systems and application is limited for all u
 
 ## Wireless Access Use
 
-* Janus Healthcare Partners production systems are not accessible directly over wireless channels.
+* Janus Healthcare Partners production systems are accessible over wireless channels from Janus Healthcare Partners managed workstations.
 
 ## Employee Termination Procedures
 
