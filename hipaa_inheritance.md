@@ -13,7 +13,7 @@ Evaluation - 164.308(a)(8) | Auditing Policy | Yes
 
 | **Physical Safeguards** HIPAA Rule | Janus Healthcare Partners Control | Inherited
 --- | --- | ---
-Facility Access Controls - 164.310(a)(1) | Facility and Disaster Recovery Policies | Yes
+Facility Access Controls - 164.310(a)(1) | Facility and Disaster Recovery Policies | N/A
 Workstation Use - 164.310(b) | System Access, Approved Tools, and Employee Policies | Partially
 Workstation Security - 164.310('c') | System Access, Approved Tools, and Employee Policies | Partially
 Device and Media Controls - 164.310(d)(1) | Disposable Media and Data Management Policies | Yes
