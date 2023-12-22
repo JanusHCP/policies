@@ -1,6 +1,6 @@
 # IDS Policy
 
-In order to preserve the integrity of data that BloomAPI stores, processes, or transmits for Customers, BloomAPI implements strong intrusion detection tools and policies to proactively track and retroactively investigate unauthorized access. 
+In order to preserve the integrity of data that Janus Healthcare Partners stores, processes, or transmits for Customers, Janus Healthcare Partners implements strong intrusion detection tools and policies to proactively track and retroactively investigate unauthorized access. 
 
 ## Applicable Standards from the HITRUST Common Security Framework
 
@@ -14,7 +14,7 @@ In order to preserve the integrity of data that BloomAPI stores, processes, or t
 
 ## Intrusion Detection Policy
 
-* BloomAPI firewalls monitor all incoming traffic to detect potential denial of service attacks. Suspected attack sources are blocked automatically. Additionally, our hosting provider actively monitors its network to detect denial of services attacks.
+* Janus Healthcare Partners firewalls monitor all incoming traffic to detect potential denial of service attacks. Suspected attack sources are blocked automatically. Additionally, our hosting provider actively monitors its network to detect denial of services attacks.
 * All new firewall rules and configuration changes are tested before being pushed into production. All firewall and router rules are reviewed bi-annually by the engineering team.
-* BloomAPI utilizes redundant firewall on network perimeters.
-* Static IP addresses are used for BloomAPI servers.
+* Janus Healthcare Partners utilizes redundant firewall on network perimeters.
+* Static IP addresses are used for Janus Healthcare Partners servers.
