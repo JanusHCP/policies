@@ -148,3 +148,5 @@ All workforce members report non-compliance of Janus Healthcare Partners' polici
 **Ops Team Lead** - Michael Wasser, michaelw@janushcp.com
 
 **Security Incidence Responce Team Lead** - Michael Wasser, michaelw@janushcp.com
+
+Last updated 12/22/2023
