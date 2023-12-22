@@ -59,7 +59,7 @@ Access to Janus Healthcare Partners systems and application is limited for all u
 ## Person or Entity Authentication
 
 * Each workforce member has and uses a unique user ID and password that identifies him/her as the user of the information system.
-* Workfoce members authenticate their access via SSO through active directory with Microsoft 365
+
 
 ## Unique User Identification
 
