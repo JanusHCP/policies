@@ -1,6 +1,6 @@
 # System Access Policy
 
-Access to BloomAPI systems and application is limited for all users, including but not limited to workforce members, volunteers, business associates, contracted providers, consultants, and any other entity, is allowable only on a minimum necessary basis. All users are responsible for reporting an incident of unauthorized user or access of the organization's information systems. These safeguards have been established to address the HIPAA Security regulations including the following:
+Access to Janus Healthcare Partners systems and application is limited for all users, including but not limited to workforce members, volunteers, business associates, contracted providers, consultants, and any other entity, is allowable only on a minimum necessary basis. All users are responsible for reporting an incident of unauthorized user or access of the organization's information systems. These safeguards have been established to address the HIPAA Security regulations including the following:
 
 ## Applicable Standards from the HITRUST Common Security Framework
 
@@ -31,17 +31,17 @@ Access to BloomAPI systems and application is limited for all users, including b
 
 ## Access Establishment and Modification
 
-* Requests for access to BloomAPI Platform systems and applications is made formally to the CTO, Privacy Officer, or Security Officer.
-* Access is not granted until receipt, review, and approval by the BloomAPI Security Officer;
+* Requests for access to Janus Healthcare Partners Platform systems and applications is made formally to the CTO, Privacy Officer, or Security Officer.
+* Access is not granted until receipt, review, and approval by the Janus Healthcare Partners Security Officer;
 * The request for access is retained for future reference.
-* All access to BloomAPI systems and services are reviewed and updated on an annual basis to assure proper authorizations are in place commiserate with job functions.
-* Any BloomAPI workforce member can request change of access by emailing the Security Officer.
+* All access to Janus Healthcare Partners systems and services are reviewed and updated on an annual basis to assure proper authorizations are in place commiserate with job functions.
+* Any Janus Healthcare Partners workforce member can request change of access by emailing the Security Officer.
 * Access to systems is controlled using centralized user management and authentication. All authentication requests utilize two-factor authentication where supported.
 * Temporary accounts are not used unless absolutely necessary for business purposes.
 * In the case of non-personal information, such as generic educational content, identification and authentication may not be required.
 * Privileged users must first access systems using standard, unique user accounts before switching to privileged users and performing privileged tasks.
 * All application to application communication using service accounts is restricted and not permitted unless absolutely needed. Automated tools are used to limit account access across applications and systems.
-* Generic accounts are not allowed on BloomAPI systems.
+* Generic accounts are not allowed on Janus Healthcare Partners systems.
 * In cases of increased risk or known attempted unauthorized access, immediate steps are taken by the Security and Privacy Officer to limit access and reduce risk of unauthorized access.
 * Direct system to system, system to application, and application to application authentication and authorization are limited and controlled to restrict access.
 
@@ -49,24 +49,26 @@ Access to BloomAPI systems and application is limited for all users, including b
 
 * The level of security assigned to a user to the organization's information systems is based on the minimum necessary amount of data access required to carry out legitimate job responsibilities assigned to a user's job classification and/or to a user needing access to carry out treatment, payment, or healthcare operations.
 * All access requests are treated on a "least-access principle".
-* BloomAPI maintains a minimum necessary approach to access to Customer data. As such, BloomAPI, including all workforce members, does not readily have access to any ePHI.
+* Janus Healthcare Partners maintains a minimum necessary approach to access to Customer data. As such, Janus Healthcare Partners, including all workforce members, does not readily have access to any ePHI.
 
 ## Access Authorization
 
-* Role based access categories for each BloomAPI system and application are pre-approved by the Security Officer or CTO.
-* BloomAPI utilizes hardware and software firewalls to segment data, prevent unauthorized access, and monitor traffic for denial of service attacks.
+* Role based access categories for each Janus Healthcare Partners system and application are pre-approved by the Security Officer or CTO.
+* Janus Healthcare Partners utilizes hardware and software firewalls to segment data, prevent unauthorized access, and monitor traffic for denial of service attacks.
 
 ## Person or Entity Authentication
 
 * Each workforce member has and uses a unique user ID and password that identifies him/her as the user of the information system.
+* Workfoce members authenticate their access via SSO through active directory with Microsoft 365
 
 ## Unique User Identification
 
-* Access to the BloomAPI systems and applications is controlled by requiring unique User Login ID's and passwords for each individual.
+* Access to the Janus Healthcare Partners systems and applications is controlled by requiring unique User Login ID's and passwords for each individual.
 * Passwords requirements mandate strong password controls (see below).
 * Passwords are not displayed at any time and are not transmitted or stored in plain text.
 * Default accounts on all production systems, including root, are disabled.
-* Shared accounts are not allowed within BloomAPI systems or networks.
+* Shared accounts are not allowed within Janus Healthcare Partners systems or networks.
+* Set-up & use of MFA in addition to User Login and password or SSO is mandatory.
 
 ## Automatic Logoff
 
@@ -84,7 +86,7 @@ Access to BloomAPI systems and application is limited for all users, including b
 
 ## Wireless Access Use
 
-* BloomAPI production systems are not accessible directly over wireless channels.
+* Janus Healthcare Partners production systems are not accessible directly over wireless channels.
 
 ## Employee Termination Procedures
 
@@ -98,11 +100,11 @@ Access to BloomAPI systems and application is limited for all users, including b
 
 ## Paper Records
 
-BloomAPI does not use paper records for any sensitive information. Use of paper for recording and storing sensitive data is against BloomAPI policies.
+Janus Healthcare Partners does not use paper records for any sensitive information. Use of paper for recording and storing sensitive data is against Janus Healthcare Partners policies.
 
 ## Password Management
 
-* User IDs and passwords are used to control access to BloomAPI systems and may not be disclosed to anyone for any reason.
+* User IDs and passwords are used to control access to Janus Healthcare Partners systems and may not be disclosed to anyone for any reason.
 * Users may not allow anyone, for any reason, to have access to any information system using another user's unique user ID and password.
 * Passwords are inactivated immediately upon an employee's termination (refer to the termination procedures in this policy).
 * All default system, application, and Partner passwords are changed before deployment to production.
