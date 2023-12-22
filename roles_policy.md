@@ -131,4 +131,14 @@ All workforce members report non-compliance of Janus Healthcare Partners' polici
 
 4. In the case of an insider threat, the Security Officer and Privacy Officer are to setup a team to investigate and mitigate the risk of insider malicious activity. Janus Healthcare Partners workforce members are encouraged to come forward with information about insider threats, and can do so anonymously. 
 
-5. The Security Officer maintains all documentation of the investigation, sanctions provided, and actions taken to prevent reoccurrence for a minimum of six years after the conclusion of the investigation. 
+5. The Security Officer maintains all documentation of the investigation, sanctions provided, and actions taken to prevent reoccurrence for a minimum of six years after the conclusion of the investigation.
+
+## Current Assignment of Roles
+
+Chief Compliance Officer - Ross Ronan, ComplianceConcerns@janushcp.com
+Chief Technical Officer - Michael Wasser, michaelw@janushcp.com
+Security Team Officer - Michael Wasser, michaelw@janushcp.com
+Privacy Officer - Michael Wasser, michaelw@janushcp.com
+Web Services Team Lead - Michael Wasser, michaelw@janushcp.com
+Ops Team Lead - Michael Wasser, michaelw@janushcp.com
+Security Incidence Responce Team Lead - Michael Wasser, michaelw@janushcp.com
