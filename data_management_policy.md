@@ -16,7 +16,7 @@ Violation of this policy and its procedures by workforce members may result in c
 * 164.310(d)(2)(iii) - Accountability
 * 164.310(d)(2)(iv) - Data Backup and Storage
 
-## Applicable Standards from the HIPPA Privacy Rule
+## Applicable Standards from the HIPAA Privacy Rule
 * 164.106(B) - Security Standards for the Protection of Electronic Protected Health Information
 * 164.308 - Administrative Safeguards
 * 164.312 - Technical Safeguards
