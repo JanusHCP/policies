@@ -22,3 +22,13 @@ Janus Healthcare Partners standardizes and automates configuration management th
 9. All committed code is reviewed using pull requests GitHub to assure software code quality and proactively detect potential security issues in development.
 10. Janus Healthcare Partners utilizes development and staging environments that mirror production to assure proper function.
 11. All formal change requests require unique ID and authentication.
+
+## Change Management
+Janus HCP seeks to minimize risks associated with changes or configurations to applicaionts, operating systems, patch levels, and other IT infastructure.  Changes are defined as any modification, addition, or removal of anything from and applicaionts, an operating systems, patch levels, and other IT infastructure.  All changes must be implementd given the apoval framework outlined in the configuration management policy including aproval & review of all changes by the CTO and implemenation of all changes by privlidged IT professionals only.  Changes are classified as:
+
+1. Standard - The type of change performed on a routine basis and follows an established framework
+2. Major - The type of change with a large impact on a specific system, requries a lot of dependencies, or requries changes significant accomodations.
+3. Minor - The type of change with a very minimal impact on the applicable system
+4. Emergency - The type of change in response to a high impact problem that requries an urgent fix.
+
+All changes regardless of classification are reviewed using GitHup pull requests and are aproved, reviewed, and logged using the Configuration Management Form.
