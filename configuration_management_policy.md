@@ -23,6 +23,9 @@ Janus Healthcare Partners standardizes and automates configuration management th
 10. Janus Healthcare Partners utilizes development and staging environments that mirror production to assure proper function.
 11. All formal change requests require unique ID and authentication.
 
+## Segregation of Duties
+Developers have the privileged to deploy code only with the explicit approval of the CTO.  All developer code is peer reviewed using GitHub pull requests as explained in part 9 of Configuration Management.  Peer aproved code can be deployed by the developers to the Janus production enviroment with explicit written approval of the CTO via the change management form.
+
 ## Change Management
 Janus HCP seeks to minimize risks associated with changes or configurations to applicaionts, operating systems, patch levels, and other IT infastructure.  Changes are defined as any modification, addition, or removal of anything from and applicaionts, an operating systems, patch levels, and other IT infastructure.  All changes must be implementd given the apoval framework outlined in the configuration management policy including aproval & review of all changes by the CTO and implemenation of all changes by privlidged IT professionals only.  Changes are classified as:
 
