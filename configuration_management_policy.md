@@ -13,7 +13,7 @@ Janus Healthcare Partners standardizes and automates configuration management th
 ## Configuration Management
 
 1. Ansible is used to standardize and automate configuration management.
-2. No systems are deployed into Janus Healthcare Partners environments without approval of the Janus Healthcare Partners CTO.
+2. No systems are deployed into Janus Healthcare Partners environments without approval of the Janus Healthcare Partners CTO.  Only authorized administrators can implement such upgrades to software, application, and program libraries.  All upgrades are based on business requirements and applicable security implications.
 4. All changes to production systems, network devices, and firewalls are approved by the Janus Healthcare Partners CTO before they are implemented. Additionally, all changes are tested before they are implemented in production.
 5. An up-to-date inventory of systems is maintained. All systems are categorized as production and utility to differentiate based on criticality.
 6. Clocks are synchronized across all systems using NTP. Modifying time data on systems is restricted.
