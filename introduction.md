@@ -21,5 +21,7 @@ Within the Janus Healthcare Partners Platform all data transmission is encrypted
 ## Version Control
 
 Policies were last reviewed and updated December 21th, 2023.
-Policies were written by Michael Wasser, CTO
-Policies were approved by Richard Clarke, COO
+
+Policies were written by Michael Wasser, CTO.
+
+Policies were approved by Richard Clarke, COO.
