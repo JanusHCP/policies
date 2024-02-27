@@ -24,7 +24,7 @@ Janus Healthcare Partners standardizes and automates configuration management th
 11. All formal change requests require unique ID and authentication.
 
 ## Segregation of Duties
-Developers have the privileged to deploy code only with the explicit approval of the CTO.  All developer code is peer reviewed using GitHub pull requests as explained in part 9 of Configuration Management.  Peer aproved code can be deployed by the developers to the Janus production enviroment with explicit written approval of the CTO via the change management form.
+Developers have the privileged to deploy code only with the explicit approval of the CTO.  All developer code is peer reviewed using GitHub pull requests as explained in part 9 of Configuration Management.  Peer approved code can be deployed by developers to the Janus staging environment only.  Code can only be deployed to the Janus production environment with explicit written approval of the CTO via the change management form.
 
 ## Change Management
 Janus HCP seeks to minimize risks associated with changes or configurations to applicaionts, operating systems, patch levels, and other IT infastructure.  Changes are defined as any modification, addition, or removal of anything from and applicaionts, an operating systems, patch levels, and other IT infastructure.  All changes must be implementd given the apoval framework outlined in the configuration management policy including aproval & review of all changes by the CTO and implemenation of all changes by privlidged IT professionals only.  Changes are classified as:
@@ -34,4 +34,4 @@ Janus HCP seeks to minimize risks associated with changes or configurations to a
 3. Minor - The type of change with a very minimal impact on the applicable system
 4. Emergency - The type of change in response to a high impact problem that requries an urgent fix.
 
-All changes regardless of classification are reviewed using GitHup pull requests and are aproved, reviewed, and logged using the Configuration Management Form.
+All changes regardless of classification are reviewed using GitHup pull requests and are aproved, reviewed, and logged using the Configuration Management Form.  All changes are deployed to the Janus staging enviroment for review by CTO before being deployed to production.
