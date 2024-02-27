@@ -23,3 +23,4 @@ Janus Healthcare Partners is committed to ensuring all workforce members activel
 5. All remote (teleworking) workforce members are trained on the risks, the controls implemented, their responsibilities, and sanctions associated with violation of policies.
 6. Access to internal Janus Healthcare Partners systems can be requested by emailing the Security Officer. All requests for access much be granted by the Janus Healthcare Partners Security Officer. 
 7. Request for modifications of access for any Janus Healthcare Partners employee can be made by emailing the Security Officer.
+8. All workforce members who work from how are required to have WPA2 encryption on their home WIFI network.
