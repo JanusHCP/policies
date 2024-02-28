@@ -1,4 +1,4 @@
-# System Access Policy
+![image](https://github.com/JanusHCP/policies/assets/81590976/619ed512-b123-41da-9d01-ef2b0481360e)# System Access Policy
 
 Access to Janus Healthcare Partners systems and application is limited for all users, including but not limited to workforce members, volunteers, business associates, contracted providers, consultants, and any other entity, is allowable only on a minimum necessary basis. All users are responsible for reporting an incident of unauthorized user or access of the organization's information systems. These safeguards have been established to address the HIPAA Security regulations including the following:
 
@@ -112,3 +112,6 @@ Janus Healthcare Partners does not use paper records for any sensitive informati
 * If a user believes their user ID has been compromised, they are required to immediately report the incident to the Security Office.
 * User Identities must be verified before password resets.
 * It is prohibited to use third-party or unprotected electronic mail messages for the dissemination of passwords.
+
+## Access Management for Vendors and Business Partners
+Vendors and business partners can be granted remote access to Janus HCP systems.  The CTO and COO must approve all vendor or business partner access to Janus HCP systems.  Vendor and business partner access must be tied to a specific business need.  The CTO must assess any security risks associated with granting vendor or business partner access.  Vendor and business partner access to Janus HCP systems is promptly terminated once the business need is met.
