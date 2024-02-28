@@ -41,5 +41,6 @@ The Janus Patch Management Policy for physical IT infrastructure (employee works
 
 1. Janus HCP uses a remote scripting software to run scripts pushing security related patches remotely and instantly to employee workstations.  This is not done through GPO but through scripting software triggered via out inventory management tool, Datto.
 2. All patches deployed to employee workstations are tested and approved in the framework outlined in the Change Management policy.
+3. Workstations are configured to force the installation of all updates pushed by windows or other installed approved software's.  User do not have admin access and cannot override or disable this configuration.
 
 
