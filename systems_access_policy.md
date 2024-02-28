@@ -1,4 +1,4 @@
-![image](https://github.com/JanusHCP/policies/assets/81590976/619ed512-b123-41da-9d01-ef2b0481360e)# System Access Policy
+# System Access Policy
 
 Access to Janus Healthcare Partners systems and application is limited for all users, including but not limited to workforce members, volunteers, business associates, contracted providers, consultants, and any other entity, is allowable only on a minimum necessary basis. All users are responsible for reporting an incident of unauthorized user or access of the organization's information systems. These safeguards have been established to address the HIPAA Security regulations including the following:
 
