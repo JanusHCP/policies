@@ -110,3 +110,4 @@ Janus Healthcare Partners does not use paper records for any sensitive informati
 * All default system, application, and Partner passwords are changed before deployment to production.
 * All passwords used in configuration scripts are secured and encrypted.
 * If a user believes their user ID has been compromised, they are required to immediately report the incident to the Security Office.
+* User Identities must be verified before password resets.
