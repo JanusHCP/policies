@@ -35,3 +35,12 @@ Janus HCP seeks to minimize risks associated with changes or configurations to a
 4. Emergency - The type of change in response to a high impact problem that requries an urgent fix.
 
 All changes regardless of classification are reviewed using GitHup pull requests and are aproved, reviewed, and logged using the Configuration Management Form.  All changes are deployed to the Janus staging enviroment for review by CTO before being deployed to production.
+
+## Patch Management
+The Janus Patch Management Policy for IT infrastructure dictates how patches are deployed to physical IT infrastructure (employee workstations).  Note, Janus Healthcare Partners does not use any servers, networking devices, or mobile devices.
+
+1. Janus HCP uses a remote scripting software to run scripts pushing security related patches remotely and instantly to employee workstations.  This is not done through GPO but through scripting software triggered via out inventory management tool, Datto.
+2. All patches are deployed only by approved and trained IT professionals and are approved by the CTO.  Only approved and trained IT professionals can run scripts pushing patches.
+3. All patches are classified using the taxonomy in the Change Management policy
+
+
