@@ -111,3 +111,4 @@ Janus Healthcare Partners does not use paper records for any sensitive informati
 * All passwords used in configuration scripts are secured and encrypted.
 * If a user believes their user ID has been compromised, they are required to immediately report the incident to the Security Office.
 * User Identities must be verified before password resets.
+* It is prohibited to use third-party or unprotected electronic mail messages for the dissemination of passwords.
