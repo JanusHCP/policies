@@ -40,7 +40,7 @@ All changes regardless of classification are reviewed using GitHup pull requests
 The Janus Patch Management Policy dictates how patches are deployed to physical IT infrastructure (employee workstations) and the Janus HCP servers hosted on AWS.  Note, Janus Healthcare Partners does not use any on site servers, networking devices, or mobile devices.  
 
 1. Janus HCP uses a remote scripting software to run scripts pushing security related patches remotely and instantly to employee workstations.  This is not done through GPO but through scripting software triggered via out inventory management tool, Datto.
-2. Janus HCP uses the AWS Patch Manager to push updates, including security related patches, to the Janus platform.
+2. Janus HCP uses the AWS Patch Manager to push updates, including security related patches, to the Janus server platform.
 3. All patches are tested and approved in the framework outlined in the Change Management policy.
 4. Workstations are configured to force the installation of all updates pushed by windows or other installed approved software's.  User do not have admin access and cannot override or disable this configuration.
 
