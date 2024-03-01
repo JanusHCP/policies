@@ -14,4 +14,4 @@ Non-Viable Workstation - A workstation that has reached the end of its working l
 
 ## IT Asset Review Policy
 
-All Janus HCP physical IT assets (employee workstations) are reviewed annually under the direction of the CTO.  Assets are assessed for damage and wear.  Assets that are deemed to be non-viable are replaced and disposed of as dictated by the IT Disposal Requirements.
+All Janus HCP physical IT assets (employee workstations) are reviewed on an annual basis under the direction of the CTO.  Assets are assessed for damage and wear.  Assets that are deemed to be non-viable are replaced and disposed of as dictated by the IT Disposal Requirements.
