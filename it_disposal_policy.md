@@ -11,3 +11,7 @@ Non-Viable Workstation - A workstation that has reached the end of its working l
 2. All software licenses are uninstalled, and employee access is removed by the IT team from the non-viable workstation
 3. The non-viable workstation hard drive is re-imaged clearing it of any data
 4. The non-viable workstation is recycled as is required by local law
+
+## IT Asset Review Policy
+
+All Janus HCP physical IT assets (employee workstations) are reviewed annually under the direction of the CTO.  Assets are assessed for damage and wear.  Assets that are deemed to be non-viable are replaced and disposed of as dictated by the IT Disposal Requirements.
