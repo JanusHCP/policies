@@ -45,10 +45,13 @@ The Janus Patch Management Policy dictates how patches are deployed to physical 
 
    a. Standard - The type of patch performed on a routine basis and follows an established framework.  Standard patches are of the lowest priority and are pushed on a pre- 
                   determined schedule.
+
    b. Major - The type of patch with a large impact on a specific system, requires a lot of dependencies, or requires changes significant accommodations.  Major patches   
                are prioritized ahead of Standard and Minor patches.  Major patches are pushed out on a schedule to accommodate necessary review of dependencies or impacted   
                systems.
+
    c. Minor - The type of patch with a very minimal impact on the applicable system.  Minor patches are prioritized ahead of Standard but behind Major patches.
+
    d. Emergency - The type of patch in response to a high impact problem that requires an urgent fix.  Emergency patches are prioritized overall other fixes.
 
 5. Workstations are configured to force the installation of all updates pushed by windows or other installed approved software's.  User do not have admin access and cannot override or disable this configuration.
