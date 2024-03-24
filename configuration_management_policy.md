@@ -27,21 +27,28 @@ Janus Healthcare Partners standardizes and automates configuration management th
 Developers have the privileged to deploy code only with the explicit approval of the CTO.  All developer code is peer reviewed using GitHub pull requests as explained in part 9 of Configuration Management.  Peer approved code can be deployed by developers to the Janus staging environment only.  Code can only be deployed to the Janus production environment with explicit written approval of the CTO via the change management form.  Only approved and trained developers have access to the Janus platform code and have the privilege to push code to staging or production.
 
 ## Change Management
-Janus HCP seeks to minimize risks associated with changes or configurations to applicaionts, operating systems, patch levels, and other IT infastructure.  Changes are defined as any modification, addition, or removal of anything from and applicaionts, an operating systems, patch levels, and other IT infastructure.  All changes must be implementd given the apoval framework outlined in the configuration management policy including aproval & review of all changes by the CTO and implemenation of all changes by privlidged IT professionals only.  Changes are classified as:
+Janus HCP seeks to minimize risks associated with changes or configurations to applications, operating systems, patch levels, and other IT infrastructure.  Changes are defined as any modification, addition, or removal of anything from and applications, an operating systems, patch levels, and other IT infrastructure.  All changes must be implemented given the approval framework outlined in the configuration management policy including approval & review of all changes by the CTO and implementation of all changes by privileged IT professionals only.  Changes are classified as:
 
 1. Standard - The type of change performed on a routine basis and follows an established framework
-2. Major - The type of change with a large impact on a specific system, requries a lot of dependencies, or requries changes significant accomodations.
+2. Major - The type of change with a large impact on a specific system, requires a lot of dependencies, or requires changes significant accommodations.
 3. Minor - The type of change with a very minimal impact on the applicable system
-4. Emergency - The type of change in response to a high impact problem that requries an urgent fix.
+4. Emergency - The type of change in response to a high impact problem that requires an urgent fix.
 
-All changes regardless of classification are reviewed using GitHup pull requests and are aproved, reviewed, and logged using the Configuration Management Form.  All changes are deployed to the Janus staging enviroment for review by CTO before being deployed to production.
+All changes regardless of classification are reviewed using GitHub pull requests and are approved, reviewed, and logged using the Configuration Management Form.  All changes are deployed to the Janus staging environment for review by CTO before being deployed to production.
 
 ## Patch Management
 The Janus Patch Management Policy dictates how patches are deployed to physical IT infrastructure (employee workstations) and the Janus HCP servers hosted on AWS.  Note, Janus Healthcare Partners does not use any on site servers, networking devices, or mobile devices.  
 
 1. Janus HCP uses a remote scripting software to run scripts pushing security related patches remotely and instantly to employee workstations.  This is not done through GPO but through scripting software triggered via out inventory management tool, Datto.
 2. Janus HCP uses the AWS Patch Manager to push updates, including security related patches, to the Janus server platform.
-3. All patches are tested and approved in the framework outlined in the Change Management policy.
-4. Workstations are configured to force the installation of all updates pushed by windows or other installed approved software's.  User do not have admin access and cannot override or disable this configuration.
+3. All patches are classified, evaluated, and prioritized by:
 
+    a. Standard - The type of patch performed on a routine basis and follows an established framework.  Standard patches are of the lowest priority and are pushed on a pre- 
+                  determined schedule.
+    b. Major - The type of patch with a large impact on a specific system, requires a lot of dependencies, or requires changes significant accommodations.  Major patches   
+               are prioritized ahead of Standard and Minor patches.  Major patches are pushed out on a schedule to accommodate necessary review of dependencies or impacted   
+               systems.
+    c. Minor - The type of patch with a very minimal impact on the applicable system.  Minor patches are prioritized ahead of Standard but behind Major patches.
+    d. Emergency - The type of patch in response to a high impact problem that requires an urgent fix.  Emergency patches are prioritized overall other fixes.
 
+5. Workstations are configured to force the installation of all updates pushed by windows or other installed approved software's.  User do not have admin access and cannot override or disable this configuration.
