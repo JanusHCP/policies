@@ -39,19 +39,15 @@ All changes regardless of classification are reviewed using GitHub pull requests
 ## Patch Management
 The Janus Patch Management Policy dictates how patches are deployed to physical IT infrastructure (employee workstations) and the Janus HCP servers hosted on AWS.  Note, Janus Healthcare Partners does not use any on site servers, networking devices, or mobile devices.  
 
-1. Janus HCP uses a remote scripting software to run scripts pushing security related patches remotely and instantly to employee workstations.  This is not done through GPO but through scripting software triggered via out inventory management tool, Datto.
-2. Janus HCP uses the AWS Patch Manager to push updates, including security related patches, to the Janus server platform.
+1. Janus HCP uses a remote scripting software to run scripts pushing security related patches remotely and instantly to employee workstations.  This is not done through GPO but through scripting software triggered via our inventory management tool, Datto.
+2. Janus HCP uses the AWS Patch Manager to push updates, including security related patches, to the Janus server platform.  Servers automatically patch themselves with  security updates which are monitored by AWS Patch Manager.
 3. All patches are classified, evaluated, and prioritized by:
 
-   a. Standard - The type of patch performed on a routine basis and follows an established framework.  Standard patches are of the lowest priority and are pushed on a pre- 
-                  determined schedule.
+   a. Standard - Standard patches are only deployed when there is a relevant business reason.
 
-   b. Major - The type of patch with a large impact on a specific system, requires a lot of dependencies, or requires changes significant accommodations.  Major patches   
-               are prioritized ahead of Standard and Minor patches.  Major patches are pushed out on a schedule to accommodate necessary review of dependencies or impacted   
-               systems.
+   b. Major - Major patches are only deployed when there is a relevant business reason, if the affected software version has reached end of life status, or if the software affected is no longer    
+              supported by the supplied and the related machine is on the open internet.
 
-   c. Minor - The type of patch with a very minimal impact on the applicable system.  Minor patches are prioritized ahead of Standard but behind Major patches.
+   d. Security - The type of patch in response to a high impact problem that requires an urgent fix.  Emergency patches are prioritized over other fixes.
 
-   d. Emergency - The type of patch in response to a high impact problem that requires an urgent fix.  Emergency patches are prioritized overall other fixes.
-
-5. Workstations are configured to force the installation of all updates pushed by windows or other installed approved software's.  User do not have admin access and cannot override or disable this configuration.
+5. Workstations are configured to force the installation of all updates pushed by windows or other installed approved software's.  Users do not have admin access and cannot override or disable this configuration.
